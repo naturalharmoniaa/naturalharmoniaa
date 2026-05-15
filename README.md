@@ -12,3 +12,6 @@
   ``November's initial is N, N is the 14th letter.``
 
 ![image alt](https://github.com/yorukenma/yorukenma/blob/9b9925b6069c581c567897e711313a7afbd76f82/N%20plushies)
+
+N x Hanami !!
+![image alt](https://github.com/naturalharmoniaa/naturalharmoniaa/blob/1882236cbfdfed597ee03d1631871e2627752e00/N%20x%20Hanami_20260512000743.png)
