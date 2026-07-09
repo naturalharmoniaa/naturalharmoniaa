@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/7b4527984aba538a5554a8902fb305f53ba4dec2/8357-heart-flashing.png" width="16" height="16"> {‎ <a href="https://yorukenma.atabook.org">新𝐛𝐨𝐨𝐤</a>‎  ∫‎  <a href="https://kuroikanashimi.straw.page">𝐬𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞</a> ‎} <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/7b4527984aba538a5554a8902fb305f53ba4dec2/8357-heart-flashing.png" width="16" height="16">
+  <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/7b4527984aba538a5554a8902fb305f53ba4dec2/8357-heart-flashing.png" width="16" height="16"> {‎ <a href="https://naturalharmoniaa.atabook.org/">新𝐛𝐨𝐨𝐤</a>‎  ∫‎  <a href="https://kuroikanashimi.straw.page">𝐬𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞</a> ‎} <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/7b4527984aba538a5554a8902fb305f53ba4dec2/8357-heart-flashing.png" width="16" height="16">
 </p>
