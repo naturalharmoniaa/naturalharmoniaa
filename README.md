@@ -11,7 +11,7 @@
 </p>
 
 ‎ ‎ ‎ call me $${\color{blue}misuu}$$. or $${\color{blue}kuro}$$.
-‎ " $$\color{#0E54A8}\text{𝐛𝐥𝐮𝐞 𝐜𝐨𝐥𝐥𝐚𝐫}$$ x 𝐰𝐡𝐢𝐭𝐞 𝐜𝐨𝐥𝐥𝐚𝐫 " ‎ $${\color{blue}Ron}$$ x $${\color{orange}Cody}$$.
+‎ ‎ " $$\color{#0E54A8}\text{𝐛𝐥𝐮𝐞 𝐜𝐨𝐥𝐥𝐚𝐫}$$ x 𝐰𝐡𝐢𝐭𝐞 𝐜𝐨𝐥𝐥𝐚𝐫 " ‎ $${\color{blue}Ron}$$ x $${\color{orange}Cody}$$.
   
 <p align="center">
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/f7363090662bd7604f0f9795702e47b147a0bbc5/ron_cody.png" alt="ronxcody">
