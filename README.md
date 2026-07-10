@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=That+irritating+smirk+you+always+pull...;I+could+just+wipe+it+off+your+face.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cody,focus+on+your+labor.;...Why+am+i+saying+this.)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/7b4527984aba538a5554a8902fb305f53ba4dec2/8357-heart-flashing.png" width="20" height="56"> <img src="https://komarev.com/ghpvc/?username=naturalharmoniaa&label=۫₊˚⊹♡&label=_₊˚⊹♡_&color=0E54A8" alt="Profile Views"> <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/7b4527984aba538a5554a8902fb305f53ba4dec2/8357-heart-flashing.png" width="20" height="56">
