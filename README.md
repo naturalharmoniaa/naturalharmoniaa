@@ -26,5 +26,6 @@
   credits: $${\color{blue}orvyns}$$ on $${\color{white}pinterest}$$.
 
   Ron from Accounting _doubles_ ok, iwc if you ship him with others though.
+  (Ron is my comfort character. otherwise, i don't really mind when people ship him with Cody.)
   > those who complimented my Animal Hospital oc; Maintenance Staff Cody, or simply $${\color{white}Cody}$$. Thank you so much, i cannot describe how much it means to me! as someone who gets into the fandom anxious with a fear of judgement, I'm really glad people like you approve of my creation!
 </details>
