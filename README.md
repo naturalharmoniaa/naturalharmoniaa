@@ -19,13 +19,14 @@
 </p>
 
 <details>
-  <summary>read before you interact !!</summary>
+  <summary>read b4 INT</summary>
   
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/68c31d274c90c92bcc9db9aeff1a0a03a8c29a92/50109378e85cb22e373757aad2c4e148.jpg" alt="Ron" width="400">
   
   credits: $${\color{blue}orvyns}$$ on $${\color{white}pinterest}$$.
 
   Ron from Accounting _doubles_ ok, iwc if you ship him with others though.
-  (Ron is my comfort character. otherwise, i don't really mind when people ship him with Cody.)
+
   > those who complimented my Animal Hospital oc; Maintenance Staff Cody, or simply $${\color{white}Cody}$$. Thank you so much, i cannot describe how much it means to me! as someone who gets into the fandom anxious with a fear of judgement, I'm really glad people like you approve of my creation!
+  Mostly seen with my friends/party, or Animal Hospital/spawn area (current hyperfixation). Sometimes at Genshin Impact, Bungou Stray Dogs, Pokémon, or Cookie Run: Kingdom.
 </details>
