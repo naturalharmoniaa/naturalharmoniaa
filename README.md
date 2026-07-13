@@ -23,8 +23,8 @@
   
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/68c31d274c90c92bcc9db9aeff1a0a03a8c29a92/50109378e85cb22e373757aad2c4e148.jpg" alt="Ron" width="400">
   
-  credits: $${\color{blue}orvyns}$$ on $${\color{red}pinterest}$$.
+  credits: $${\color{blue}orvyns}$$ on $${\color{orange}pinterest}$$.
 
   Ron from Accounting _doubles_ ok, iwc if you ship him with others though.
-  > those who complimented my Animal Hospital oc; $${\color{white} Maintenance Staff Cody}$$, or simply $${\color{orange}Cody}$$. Thank you so much, i cannot describe how much it means to me! as someone who gets into the fandom anxious with a fear of judgement, I'm really glad people like you approve of my creation!
+  > those who complimented my Animal Hospital oc; Maintenance Staff Cody, or simply $${\color{white}Cody}$$. Thank you so much, i cannot describe how much it means to me! as someone who gets into the fandom anxious with a fear of judgement, I'm really glad people like you approve of my creation!
 </details>
