@@ -22,5 +22,5 @@
   <summary>.</summary>
   
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/68c31d274c90c92bcc9db9aeff1a0a03a8c29a92/50109378e85cb22e373757aad2c4e148.jpg" alt="Ron" width="400">
-  credits: orvyns on pinterest.
+  credits: $${\color{blue}orvyns}$$. on $${\color{red}pinterest}$$
 </details>
