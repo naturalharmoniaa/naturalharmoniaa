@@ -25,5 +25,5 @@
   
   credits: $${\color{blue}orvyns}$$ on $${\color{red}pinterest}$$.
 
-  Ron from Accounting __doubles_ ok, iwc if you ship him with others though.
+  Ron from Accounting _doubles_ ok, iwc if you ship him with others though.
 </details>
