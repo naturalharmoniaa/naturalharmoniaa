@@ -17,3 +17,10 @@
 <p align="center">
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/f7363090662bd7604f0f9795702e47b147a0bbc5/ron_cody.png" alt="ronxcody">
 </p>
+
+<details>
+  <summary>.</summary>
+  
+  <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/68c31d274c90c92bcc9db9aeff1a0a03a8c29a92/50109378e85cb22e373757aad2c4e148.jpg" alt="Ron" width="400">
+  credits: orvyns on pinterest.
+</details>
