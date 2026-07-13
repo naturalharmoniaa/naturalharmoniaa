@@ -28,5 +28,6 @@
   Ron from Accounting _doubles_ ok, iwc if you ship him with others though.
 
   > those who complimented my Animal Hospital oc; Maintenance Staff Cody, or simply $${\color{white}Cody}$$. Thank you so much, i cannot describe how much it means to me! as someone who gets into the fandom anxious with a fear of judgement, I'm really glad people like you approve of my creation!
+ 
   Mostly seen with my friends/party, or Animal Hospital/spawn area (current hyperfixation). Sometimes at Genshin Impact, Bungou Stray Dogs, Pokémon, or Cookie Run: Kingdom.
 </details>
