@@ -25,5 +25,5 @@
   
   credits: $${\color{blue}orvyns}$$ on $${\color{red}pinterest}$$.
 
-  Ron from Accounting doubles ok, iwc when you ship him with others though.
+  Ron from Accounting doubles ok, iwc if you ship him with others though.
 </details>
