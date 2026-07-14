@@ -31,5 +31,4 @@
  
   Mostly seen with my friends/party, or Animal Hospital/spawn area (current hyperfixation). Sometimes at Genshin Impact, Bungou Stray Dogs, or Pokémon area.
 
-  First of all, Interact with Extreme Caution or simply Do not Interact if you're a person whose headcanon changes a character's aspect, i don't give a fuck about your preferences as long as you don't call me out for it or cross my boundaries. Second, If you're a Dandy's world fan. HEAVY do not interact, Third,
 </details>
