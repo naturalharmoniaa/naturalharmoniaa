@@ -4,6 +4,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/3936965c12725c18a157b42ba43aef5a12fbe5f7/ronxcody.png" alt="RonxCody">
+</p>
+
+<p align="center">
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/7b4527984aba538a5554a8902fb305f53ba4dec2/RonCody.png" alt="RonCody">
 </p>
 
