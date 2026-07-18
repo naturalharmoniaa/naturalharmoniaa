@@ -35,4 +35,6 @@
  
   Mostly seen with my friends/party, or Animal Hospital/spawn area (current hyperfixation). Sometimes at Genshin Impact, Bungou Stray Dogs, or Pokémon area.
 
+  Will stay around Pokémon or Bungou Stray Dogs area when I'm feeling upset, lonely, or bored.
+
 </details>
