@@ -35,4 +35,6 @@
  
   Mostly seen with my friends/party, or Animal Hospital/spawn area (current hyperfixation). Sometimes at Genshin Impact, Bungou Stray Dogs, or Pokémon area. Safe #1 server!
 
+  N ships (especially FerrisWheelShipping/IsshuShipping) + fandom dniuid
+
 </details>
