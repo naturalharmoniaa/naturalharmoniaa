@@ -35,6 +35,6 @@
  
   Mostly seen with my friends/party, or Animal Hospital/spawn area (current hyperfixation). Sometimes at Genshin Impact, Bungou Stray Dogs, or Pokémon area. Safe #1 server!
 
-  N ships (especially FerrisWheelShipping/IsshuShipping) + fandom dniuid, WHY AM I SEEING N WITH HIS SHIRT AND HIS ZIPPER SLIGHTLY OPEN. I like Hilda, but no please. stop this madness!! i don't care if you think the protagonist has a player-based age, the game context already speaks for itself that they're still children!!! also, WHY does N x Bianca exist?
+  N ships (especially FerrisWheelShipping/IsshuShipping) + fandom dniuid, WHY AM I SEEING N WITH HIS SHIRT AND HIS ZIPPER SLIGHTLY OPEN. I like Hilda, but no please. stop this madness!! i don't care if you think the protagonist has a player-based age, the game context already speaks for itself that they're still children!!! (I'm not referring to N) also, WHY does N x Bianca exist?
 
 </details>
