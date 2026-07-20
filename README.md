@@ -37,7 +37,9 @@
 
   F/Os:
   
-  Natural Harmonia Gropius (Pokémon) - gachikoi non-sharing
+  Natural Harmonia Gropius (Pokémon: Black & White) - gachikoi non-sharing
+
+  Nate (Pokémon: Black & White 2) - platonic mirror sharing
   
   Ron From Accounting (Animal Hospital) - romantic sharing
  
