@@ -74,11 +74,11 @@ ${\color{#62AEF0}·𝐂𝐚𝐥𝐞𝐦⠀𝐱⠀𝐍𝐚𝐨𝐦𝐢}$
 ${\color{#509AE3}⠀(yumesona⠀x⠀canon)}$
 ${\color{#4488D5}·𝐒𝐞𝐥𝐞𝐯𝐞𝐫⠀𝐱⠀𝐑𝐚𝐝𝐢𝐚𝐧𝐭}$
 ${\color{#3E83C8}⠀(oc⠀x⠀canon)}$
-${\color{#4488D5}·𝐍𝐢𝐤𝐨𝐥𝐚𝐢 𝐱 𝐒𝐲𝐥𝐯𝐢𝐚}$
+${\color{#4488D5}·𝐍𝐢𝐤𝐨𝐥𝐚𝐢⠀𝐱⠀𝐒𝐲𝐥𝐯𝐢𝐚}$
 ${\color{#509AE3}⠀(oc⠀x⠀canon)}$
-${\color{#3E83C8}·𝐑𝐨𝐧 𝐱 𝐂𝐨𝐝𝐲}$
+${\color{#3E83C8}·𝐑𝐨𝐧⠀𝐱⠀𝐂𝐨𝐝𝐲}$
 ${\color{#3E83C8}⠀(oc⠀x⠀canon)}$
-${\color{#3E83C8}·𝐑𝐨𝐦𝐚𝐧𝐜𝐞 𝐱 𝐀𝐫𝐢𝐚}$
+${\color{#3E83C8}·𝐑𝐨𝐦𝐚𝐧𝐜𝐞⠀𝐱⠀𝐀𝐫𝐢𝐚}$
 ${\color{#3E83C8}⠀(oc⠀x⠀canon)}$
         </p>
       </details>
