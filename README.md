@@ -66,7 +66,6 @@ $\textcolor{#7CC1F7}{\textsf{𝐦}}\textcolor{#99D2FA}{\textsf{𝐨}}\textcolor{
         <summary>$\textcolor{#7CC1F7}{\textsf{𝔂𝓾}}\textcolor{#99D2FA}{\textsf{𝓶}}\textcolor{#BBE4FC}{\textsf{𝓮}}\textcolor{#99D2FA}{\textsf{𝓼}}\textcolor{#7CC1F7}{\textsf{𝓱}}\textcolor{#62AEF0}{\textsf{𝓲}}\textcolor{#509AE3}{\textsf{𝓹𝓼}}$</summary>
         <p>
           <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/B2W2_Nate.png">
-          
 ${\color{#D8F1FE}·𝐍𝐚𝐭𝐞⠀𝐱⠀𝐀𝐥𝐥𝐢𝐞}$
 ${\color{#BBE4FC}⠀(oc⠀x⠀canon)}$
 ${\color{#99D2FA}·𝐍⠀𝐱⠀𝐇𝐚𝐧𝐚𝐦𝐢}$
@@ -74,6 +73,12 @@ ${\color{#7CC1F7}⠀(oc⠀x⠀canon)}$
 ${\color{#62AEF0}·𝐂𝐚𝐥𝐞𝐦⠀𝐱⠀𝐍𝐚𝐨𝐦𝐢}$
 ${\color{#509AE3}⠀(yumesona⠀x⠀canon)}$
 ${\color{#4488D5}·𝐒𝐞𝐥𝐞𝐯𝐞𝐫⠀𝐱⠀𝐑𝐚𝐝𝐢𝐚𝐧𝐭}$
+${\color{#3E83C8}⠀(oc⠀x⠀canon)}$
+${\color{#4488D5}·𝐍𝐢𝐤𝐨𝐥𝐚𝐢 𝐱 𝐒𝐲𝐥𝐯𝐢𝐚}$
+${\color{#509AE3}⠀(oc⠀x⠀canon)}$
+${\color{#3E83C8}·𝐑𝐨𝐧 𝐱 𝐂𝐨𝐝𝐲}$
+${\color{#3E83C8}⠀(oc⠀x⠀canon)}$
+${\color{#3E83C8}·𝐑𝐨𝐦𝐚𝐧𝐜𝐞 𝐱 𝐀𝐫𝐢𝐚}$
 ${\color{#3E83C8}⠀(oc⠀x⠀canon)}$
         </p>
       </details>
