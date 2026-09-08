@@ -8,7 +8,7 @@
 </p>
   
 <p align="center">
-  <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_pins.png" width="20" height="20"> ⧼ ‎ <a href="https://yorukenma.atabook.org">新𝐛𝐨𝐨𝐤</a>‎ ∫‎ ‎<a href="https://kuroikanashimi.straw.page">𝐬𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞</a> ‎ ⧽ <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_pins.png" width="20" height="20">
+  <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_pins.png" width="20" height="20"> ⧼ ‎ <a href="https://naturalharmoniaa.atabook.org/">新𝐛𝐨𝐨𝐤</a>‎ ∫‎ ‎<a href="https://kuroikanashimi.straw.page">𝐬𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞</a> ‎ ⧽ <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_pins.png" width="20" height="20">
 </p>
 
 ## 
