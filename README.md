@@ -3,6 +3,8 @@
   <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_ribbon.gif" width="20" height="56"> ‎ <img src="https://komarev.com/ghpvc/?username=naturalharmoniaa&label=_𓂃🖊_&color=7CC1F7" alt="Profile Views"> ‎ <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_ribbon.gif" width="20" height="56">
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=100&color=99D2FA&center=true&vCenter=true&width=800&lines="Wait!+Ghetsis!";"I+hate+you.";"I'll+never+forget+what+you+did+in+Unova.";"But+you're+still+N's+father!";"You+raised+him+and+spent+all+those+years+together!";"Are+you+really+going+to+say+you+felt+nothing...";"when+you+two+fought+side+by+side+earlier?";"It's+not+too+late+to+change+your+ways!";"Please...+Think+about+it!";"Ghetsis!";"...")](https://git.io/typing-svg)
+
 <p align="center">
   <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/Nate_Animation.gif">
 </p>
@@ -110,6 +112,17 @@ ${\color{#3E83C8}⠀(oc⠀x⠀canon)}$
   $\textcolor{#7CC1F7}{\textsf{╰─}}\textcolor{#99D2FA}{\textsf{ 𝚋𝚎}}\textcolor{#BBE4FC}{\textsf{𝚜𝚝}}\textcolor{#D8F1FE}{\textsf{ 𝚟}}\textcolor{#BBE4FC}{\textsf{𝚒𝚎𝚠}}\textcolor{#99D2FA}{\textsf{𝚎𝚍 }}\textcolor{#7CC1F7}{\textsf{𝚒𝚗 𝚍}}\textcolor{#62AEF0}{\textsf{𝚊𝚛𝚔 𝚖}}\textcolor{#509AE3}{\textsf{𝚘𝚍𝚎.}}$
   
 ${\color{#7CC1F7}─────────۶ৎ─────────}$
+
+
+  [PT awards](https://github.com/Ponytowns-rewards)
+
+<p align="center">
+  <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/254b89d258f18104ee3752bc2b6b229ac1828f33/pt_Natural_Harmonia.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/254b89d258f18104ee3752bc2b6b229ac1828f33/pretty_gh.png">
+</p>
 
 ${\color{#BBE4FC}⠀ ☆⠀ (⠀ 星星⠀ )⠀ ...}$
 
