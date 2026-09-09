@@ -1,19 +1,19 @@
 ##
+
 <p align="center">
-  <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_ribbon.gif" width="20" height="56"> ‎ <img src="https://komarev.com/ghpvc/?username=naturalharmoniaa&label=_𓂃🖊_&color=7CC1F7" alt="Profile Views"> ‎ <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_ribbon.gif" width="20" height="56">
+  <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/949ad70b893dcbe3862b11064b4c81c64ea73400/overlay.png">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=100&color=99D2FA&center=true&vCenter=true&width=800&lines="Wait!+Ghetsis!";"I+hate+you.";"I'll+never+forget+what+you+did+in+Unova.";"But+you're+still+N's+father!";"You+raised+him+and+spent+all+those+years+together!";"Are+you+really+going+to+say+you+felt+nothing...";"when+you+two+fought+side+by+side+earlier?";"It's+not+too+late+to+change+your+ways!";"Please...+Think+about+it!";"Ghetsis!";"...")](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/Nate_Animation.gif">
+  <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_ribbon.gif" width="20" height="56"> ‎ <img src="https://komarev.com/ghpvc/?username=naturalharmoniaa&label=_𓂃🖊_&color=7CC1F7" alt="Profile Views"> ‎ <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_ribbon.gif" width="20" height="56">
 </p>
   
 <p align="center">
-  <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_pins.png" width="20" height="20"> ⧼ ‎ <a href="https://naturalharmoniaa.atabook.org/">新𝐛𝐨𝐨𝐤</a>‎ ∫‎ ‎<a href="https://kuroikanashimi.straw.page">𝐬𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞</a> ‎ ⧽ <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_pins.png" width="20" height="20">
+  <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_pins.png" width="20" height="20"> ⧼ ‎ <a href="https://naturalharmoniaa.atabook.org/">新𝐛𝐨𝐨𝐤</a> ‎ ∫ ‎ <a href="https://kuroikanashimi.straw.page">𝐬𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞</a> ‎ ⧽ <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_pins.png" width="20" height="20">
 </p>
 
-## 
 <div align="center">
   <details>
     <summary><img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/hanging_blue_stars.gif" width="30" height="40"> $\textcolor{#7CC1F7}{\textsf{𝓫}}\textcolor{#99D2FA}{\textsf{𝓪}}\textcolor{#BBE4FC}{\textsf{𝓼}}\textcolor{#D8F1FE}{\textsf{𝓲}}\textcolor{#BBE4FC}{\textsf{𝓬 }}\textcolor{#99D2FA}{\textsf{𝓲𝓷}}\textcolor{#7CC1F7}{\textsf{𝓯𝓸}}\textcolor{#62AEF0}{\textsf{𝓻𝓶}}\textcolor{#509AE3}{\textsf{𝓪𝓽}}\textcolor{#4488D5}{\textsf{𝓲𝓸}}\textcolor{#3E83C8}{\textsf{𝓷 }}$ <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/hanging_blue_stars.gif" width="30" height="40"></summary>
@@ -24,7 +24,7 @@
 <p align="center">
 <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_bunny.gif" width="18" height="18"> ‎ $\textcolor{#7CC1F7}{\textsf{" 𝐢}}\textcolor{#99D2FA}{\textsf{𝐟 }}\textcolor{#D8F1FE}{\textsf{𝐢}}\textcolor{#BBE4FC}{\textsf{𝐭}}\textcolor{#99D2FA}{\textsf{'𝐬 }}\textcolor{#7CC1F7}{\textsf{𝐎𝐊 }}\textcolor{#62AEFA}{\textsf{𝐰}}\textcolor{#509AE3}{\textsf{𝐢}}\textcolor{#7CC1F7}{\textsf{𝐭𝐡 }}\textcolor{#99D2FA}{\textsf{𝐲}}\textcolor{#BBE4FC}{\textsf{𝐨𝐮,}}\textcolor{#99D2FA}{\textsf{ 𝐥𝐞𝐭}}\textcolor{#7CC1F7}{\textsf{'𝐬 𝐭𝐞}}\textcolor{#62AEF0}{\textsf{𝐚}}\textcolor{#509AE3}{\textsf{𝐦 𝐮}}\textcolor{#3E83C8}{\textsf{𝐩! "}}$
   
-${\color{#7CC1F7}─────────۶ৎ─────────}$
+## ${\color{#7CC1F7}──────۶ৎ──────}$
 
 <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_spiral.gif" width="28" height="28">
 <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/NateChallenge2.png">
@@ -111,7 +111,7 @@ ${\color{#3E83C8}⠀(oc⠀x⠀canon)}$
 
   $\textcolor{#7CC1F7}{\textsf{╰─}}\textcolor{#99D2FA}{\textsf{ 𝚋𝚎}}\textcolor{#BBE4FC}{\textsf{𝚜𝚝}}\textcolor{#D8F1FE}{\textsf{ 𝚟}}\textcolor{#BBE4FC}{\textsf{𝚒𝚎𝚠}}\textcolor{#99D2FA}{\textsf{𝚎𝚍 }}\textcolor{#7CC1F7}{\textsf{𝚒𝚗 𝚍}}\textcolor{#62AEF0}{\textsf{𝚊𝚛𝚔 𝚖}}\textcolor{#509AE3}{\textsf{𝚘𝚍𝚎.}}$
   
-${\color{#7CC1F7}─────────۶ৎ─────────}$
+## ${\color{#7CC1F7}────۶ৎ────}$
 
 
   [PT awards](https://github.com/Ponytowns-rewards)
@@ -124,6 +124,10 @@ ${\color{#7CC1F7}─────────۶ৎ─────────}$
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/254b89d258f18104ee3752bc2b6b229ac1828f33/pretty_gh.png">
 </p>
 
+<p align="center">
+  <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/Nate_Animation.gif">
+</p>
+
 ${\color{#BBE4FC}⠀ ☆⠀ (⠀ 星星⠀ )⠀ ...}$
 
 ${\color{#99D2FA}𝒲𝖾⠀ 𝗐𝖾𝗋𝖾⠀ 𝗍𝗈𝗈⠀ 𝖼𝗅𝗈𝗌𝖾⠀ 𝗍𝗈⠀ 𝗍𝗁𝖾⠀ 𝗌𝗍𝖺𝗋𝗌}$
@@ -133,5 +137,9 @@ ${\color{#7CC1F7}𝖨⠀ 𝗇𝖾𝗏𝖾𝗋⠀ 𝗄𝗇𝖾𝗐⠀ 𝗌𝗈�
 ${\color{#62AEF0}⠀ —⠀ 𝗋𝖾𝖿𝗅𝖾𝖼𝗍𝗂𝗈𝗇𝗌}$⠀<img 
 src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/Nate_Pixel.png" width="25" height="25">
 </p>
+  </details>
+</div>
 
-##
+<p align="center">
+  <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/949ad70b893dcbe3862b11064b4c81c64ea73400/overlay%20(2).png">
+</p>
