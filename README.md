@@ -114,6 +114,12 @@ ${\color{#7CC1F7}────────۶ৎ────────}$
   [ponytown awards](https://github.com/Ponytowns-rewards)
 
 <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ifb52xcl5zpgy3s4binhzzqfhy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=56bffc&bar_color_cover=false">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/Nate_Animation.gif">
 </p>
 
