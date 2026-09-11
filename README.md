@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=100&color=99D2FA&center=true&vCenter=true&width=800&lines="Wait!+Ghetsis!";"I+hate+you.";"I'll+never+forget+what+you+did+in+Unova.";"But+you're+still+N's+father!";"You+raised+him+and+spent+all+those+years+together!";"Are+you+really+going+to+say+you+felt+nothing...";"when+you+two+fought+side+by+side+earlier?";"It's+not+too+late+to+change+your+ways!";"Please...+Think+about+it!";"Ghetsis!";"...")](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_pins.png" width="20" height="20"> ‎ <img src="https://komarev.com/ghpvc/?username=naturalharmoniaa&label=_𓂃🖊_&color=7CC1F7" alt="Profile Views"> ‎ <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_pins.png" width="20" height="20">
+  <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_pins.png" width="20" height="20"> ‎ <a href="https://hits.sh/github.com/haidaware/hits/"><img alt="Hits" src="https://hits.sh/github.com/naturalharmoniaa/hits.svg?style=flat-square&label=%E2%82%8A%CB%9A%E2%8A%B9%E2%99%A1&color=99D2FA&labelColor=e2e9f4"/></a> ‎ <img src="https://github.com/naturalharmoniaa/Naomi/blob/15e6c8183fb2134a70d6edf600148cb38e40f196/blue_pins.png" width="20" height="20">
 </p>
 
 <div align="center">
