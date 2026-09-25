@@ -87,6 +87,7 @@
   <sub><a href="https://github.com/music-town">music town</a></sub>
   <sub><a href="https://github.com/Ponytowns-rewards">pt awards</a></sub>
   <sub><a href="https://github.com/pt-fashion">pt fashion</a></sub>
+  <sub><a href="https://github.com/pt-heavyfictkin">pt heavy fictkin</a></sub>
   <sub><a href="https://github.com/pt-icon">pt icon</a></sub>
   <sub><a href="https://github.com/pt-ship-nominations">pt ship nominations</a></sub>
 
@@ -164,5 +165,7 @@
 <td width="50%" valign="top">
 <p align="center">
   <img src="https://github.com/naturalharmoniaa/N/blob/e734903410f2c9b70a1f39a9d7be675a15a63a55/aromantic_flag.gif">
-  
+
+  <p align="center">
   <sub>carrd, strawpage, rentry wip</sub>
+  </p>
