@@ -157,11 +157,12 @@
 
 <div align="center">
   <details>
-    <summary>۶ৎ</summary>
+    <summary>❀</summary>
 <table>
 <tr>
   
 <td width="50%" valign="top">
 <p align="center">
-  <sub>carrd, strawpage, rentry wip</sub>
   <img src="https://github.com/naturalharmoniaa/N/blob/e734903410f2c9b70a1f39a9d7be675a15a63a55/aromantic_flag.gif">
+  
+  <sub>carrd, strawpage, rentry wip</sub>
