@@ -2,7 +2,7 @@
   <a href="https://hits.sh/github.com/haidaware/hits/"><img alt="harmonia" src="https://hits.sh/github.com/naturalharmoniaa/hits.svg?style=flat-square&label=%E2%82%8A%CB%9A%E2%8A%B9%E2%99%A1&color=8DCFC5&labelColor=3A4154"/></a>
 
 <p align="center">
-<sub>𝟭7 ⸝⠀⠀ ⠀ ⠀⠀ ⠀ 𝗿luax⠀⠀ ⠀ ⠀⠀ ⠀ 𝗶nfp</sub>
+<sub>𝟭8 ⸝⠀⠀ ⠀ ⠀⠀ ⠀ 𝗿luax⠀⠀ ⠀ ⠀⠀ ⠀ 𝗶nfp</sub>
 </p>
       
 <p align="center">
