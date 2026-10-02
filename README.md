@@ -83,7 +83,7 @@
   <sub><sub>𝗰𝗵iiwara⠀𝗻ana⠀𝘆ume⠀𝘃il</sub></sub>
   
   <sub>☁︎⠀𝗼ther friends͟⠀</sub>
-  <sub><sub>𝗺el 𝗺ei 𝗺ikyii 𝗶rene 𝗸ev 𝗶zu 𝗹uc 𝗮oki 𝗸yu 𝗺iko 𝘀exy 𝗹emonii 𝗿ex 𝘃ether 𝘅ene 𝗶nfugue 𝘀tariyuu</sub></sub>
+  <sub><sub>𝗺el 𝗺ei 𝗺ikyii 𝗶rene 𝗸ev 𝗶zu 𝗹uc 𝗮oki 𝗸yu 𝗺iko 𝘀exy 𝗹emonii 𝗿ex 𝘃ether 𝘅ene 𝗶nfugue 𝗱r-vanta 𝘀tariyuu</sub></sub>
   
 
   
