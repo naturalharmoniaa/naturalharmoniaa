@@ -92,6 +92,7 @@
       <img src="https://github.com/naturalharmoniaa/N/blob/e734903410f2c9b70a1f39a9d7be675a15a63a55/N_BW1.png">
   <sub>⠀𝗽ony town's 𝗻atural harmonia gropius ⸝ ⠀𝗻ope your too late i already died by 𝘄𝗶fi𝘀kele͟t͟o͟n͟</sub>
   <sub><a href="https://github.com/casinotown">casinotown</a></sub>
+  <sub><a href="https://github.com/daggerstruckmage">daggerstruck</a></sub>
   <sub><a href="https://github.com/kaotown">kaotown</a></sub>
   <sub><a href="https://github.com/music-town">music town</a></sub>
   <sub><a href="https://github.com/Ponytowns-rewards">pt awards</a></sub>
