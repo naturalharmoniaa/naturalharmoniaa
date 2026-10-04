@@ -48,8 +48,8 @@
 </p>
 
   <p align="center">
-<sub><sub>guns.lol</sub></sub>
-<a href="https://guns.lol/naturalharmoniaa">
+<sub><sub>𝘀trawpage</sub></sub>
+<a href="https://kuroikanashimi.straw.page">
   <img src="https://github.com/naturalharmoniaa/N/blob/e734903410f2c9b70a1f39a9d7be675a15a63a55/N_stamp_2.gif" width="100">
 
 <p align="center">
