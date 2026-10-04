@@ -7,7 +7,8 @@
 <p align="center">
   <sub>𝗶 love 𝘕 more than mysel͟f͟</sub>
   <img src="https://github.com/naturalharmoniaa/N/blob/e734903410f2c9b70a1f39a9d7be675a15a63a55/N_Harmonia.jpg">
-  ♡
+  <sub>♡ 𝙨pecials:</sub>
+  <sub><sub>⠀September 8—⠀N 𝘆ume anniversary,⠀November 14—⠀N 𝗮ppreciation day</sub></sub>
 </td>
 </tr>
 </table>
