@@ -1,10 +1,18 @@
+<div align="center">
+  <details>
+    <summary>۶ৎ</summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 <p align="center">
-  THIS IS FRYING ME
-  <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/dc2f38d2b9173dd342159858d0f3c003e3cccd6e/Natural_Harmonia_Gropius.jpg"
-
-  <p align="center">
-✩
-</p>
+  <sub>𝗶 love 𝘕 more than mysel͟f͟</sub>
+  <img src="https://github.com/naturalharmoniaa/N/blob/e734903410f2c9b70a1f39a9d7be675a15a63a55/N_Harmonia.jpg">
+  ♡
+</td>
+</tr>
+</table>
+  </details>
+  </div>
 
 <p align="center">
   <a href="https://hits.sh/github.com/haidaware/hits/"><img alt="harmonia" src="https://hits.sh/github.com/naturalharmoniaa/hits.svg?style=flat-square&label=%E2%82%8A%CB%9A%E2%8A%B9%E2%99%A1&color=8DCFC5&labelColor=3A4154"/></a>
@@ -107,24 +115,30 @@
 
 <div align="center">
   <details>
-    <summary>۶ৎ</summary>
+    <summary><sub>𝙩hings to consider interacting with me͟</sub></summary>
 <table>
 <tr>
   
 <td width="50%" valign="top">
 <p align="center">
-  <sub>i love N more than myself</sub>
   <img src="https://github.com/naturalharmoniaa/N/blob/e734903410f2c9b70a1f39a9d7be675a15a63a55/N_scenery.gif">
-  ♡
-  <img src="https://github.com/naturalharmoniaa/N/blob/e734903410f2c9b70a1f39a9d7be675a15a63a55/N_Harmonia.jpg">
-
-</td>
-</tr>
-</table>
-
+<sub>𝗶 don't take kms/kys jokes seriously, as long as it's not meant to harm anyone literally.</sub>
+</p>
 <p align="center">
+<sub>𝗶'm really forgetful. i may ask about your birthday and such multiple times, I'm sorry if i ever do.</sub>
+<p align="center">
+<sub>𝗳eel free to use tone indicators if we're not close, although i recommend not using it with me if we're already friends.<sub>
+</p>
+<p align="center">
+<sub>𝗶 process words a bit longer, I don't have a normal social cue to understand jokes or sarcasm.</sub>
+</p>
+<p align="center">
+<sub>𝗶 pull away long before you know it, i tend to isolate myself to regulate my emotions.</sub>
+</p>
+
+<div align="center">
   <details>
-        <summary>${\color{#8DCFC5}𝗯y𝑖}$</summary>
+        <summary><sub>𝗯y𝑖</sub></summary>
         <p align="center">
 <sub>𝗺y mood can switch on and off at random times.</sub>
 </p>
@@ -138,7 +152,7 @@
 
 <p align="center">
   <details>
-        <summary>${\color{#8DCFC5}𝗶n𝑡}$</summary>
+        <summary><sub>𝗶n𝑡</sub></summary>
         <p align="center">
 <p align="center">
 <sub>𝗮ny people outside my dni criteria.</sub>
@@ -153,10 +167,10 @@
 
 <p align="center">
   <details>
-        <summary>${\color{#8DCFC5}𝗱n𝑖}$</summary>
+        <summary><sub>𝗱n𝑖</sub></summary>
         <p align="center">
 <p align="center">
-<sub>𝗯asic dni criteria, such as racism, homophobia, transphobia, etc.</sub>
+<sub>𝗯asic dni criteria, such as racism, homophobia, transphobia, pedophilia, etc.</sub>
 </p>
 <p align="center">
 <sub>𝗮nything controversial topics like religion and politics.</sub>
@@ -165,17 +179,3 @@
 <sub>𝗶f you tend to harass people over ships, opinions, or past conflicts.</sub>
 </p>
       </details>
-
-<div align="center">
-  <details>
-    <summary>❀</summary>
-<table>
-<tr>
-  
-<td width="50%" valign="top">
-<p align="center">
-  <img src="https://github.com/naturalharmoniaa/N/blob/e734903410f2c9b70a1f39a9d7be675a15a63a55/aromantic_flag.gif">
-
-  <p align="center">
-  <sub>carrd, strawpage, rentry wip</sub>
-  </p>
