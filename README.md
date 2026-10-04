@@ -39,7 +39,7 @@
 <td width="50%" valign="top">
 <p align="center">
 <sub><sub>新𝗯ook</sub></sub>
-<a href="https://naomii.atabook.org/">
+<a href="https://naturalharmoniaa.atabook.org/">
   <img src="https://github.com/naturalharmoniaa/N/blob/e734903410f2c9b70a1f39a9d7be675a15a63a55/N_stamp_1.gif" width="100">
 </a>
 
