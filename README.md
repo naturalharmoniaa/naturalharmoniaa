@@ -6,9 +6,11 @@
 <td width="50%" valign="top">
 <p align="center">
   <sub>𝗶 love 𝘕 more than mysel͟f͟</sub>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu&size=25&duration=4000&pause=600&color=8DCFC5&center=true&vCenter=true&width=435&lines=next+day+I'm+walking+the+road%2C;my+life's+the+worst+story+told%E2%80%94;i+rip+a+page+out+the+book;i+always+think+about+her;i+smoked+a+cig'+on+the+porch%2C;i+wonder%2C+%22what's+it+all+for%3F;and+i+know+i+can't+afford;so%2C+i+keep+it+to+myself%E2%80%94" alt="Typing SVG" /></a>
   <img src="https://github.com/naturalharmoniaa/N/blob/e734903410f2c9b70a1f39a9d7be675a15a63a55/N_Harmonia.jpg">
   <sub>♡ 𝙨pecials:</sub>
   <sub><sub>⠀September 8—⠀N 𝘆ume anniversary,⠀November 14—⠀N 𝗮ppreciation day</sub></sub>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yuyu&size=25&duration=4000&pause=600&color=8DCFC5&center=true&vCenter=true&width=435&lines=kicking+rocks%2C+it's+my+fault;I'll+be+this+way+'til+I'm+old;I'm+just+so+misunderstood;now+when+my+life+felt+good;it+doesn't+help+me+at+all;%E2%80%94is+this+the+girl+i+adore%3F%22;watching+her+walk+out+the+door;and+keep+my+feet+on+the+floor." alt="Typing SVG" /></a>
 </td>
 </tr>
 </table>
