@@ -34,11 +34,11 @@
 
 <table>
 <tr>
-<td width="100%" align="center" valign="top">
+<td width="90%" align="center" valign="top">
       <img src="https://github.com/naturalharmoniaa/N/blob/e734903410f2c9b70a1f39a9d7be675a15a63a55/N.jpg">
     </td>
 
-<td width="50%" valign="top">
+<td width="90%" valign="top">
 <p align="center">
 <sub><sub>新𝗯ook</sub></sub>
 <a href="https://naturalharmoniaa.atabook.org/">
