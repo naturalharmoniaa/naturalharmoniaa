@@ -40,7 +40,7 @@
 
 <td width="90%" valign="top">
 <p align="center">
-<sub><sub>新𝗯ook</sub></sub>
+<sub>新𝗯ook</sub>
 <a href="https://naturalharmoniaa.atabook.org/">
   <img src="https://github.com/naturalharmoniaa/N/blob/e734903410f2c9b70a1f39a9d7be675a15a63a55/N_stamp_1.gif" width="100">
 </a>
@@ -50,7 +50,7 @@
 </p>
 
   <p align="center">
-<sub><sub>𝘀trawpage</sub></sub>
+<sub>𝘀trawpage</sub>
 <a href="https://kuroikanashimi.straw.page">
   <img src="https://github.com/naturalharmoniaa/N/blob/e734903410f2c9b70a1f39a9d7be675a15a63a55/N_stamp_2.gif" width="100">
 
