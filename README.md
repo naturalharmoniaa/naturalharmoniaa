@@ -1,5 +1,5 @@
 <p align="center">
-  <sub>OMG <a href="https://github.com/casinotown">han</a>⠀ARE YOU SEEING THIS.⠀</sub> <sub><a href="https://github.com/cozywarmth">kev</a> ⠀IS CALLING YOU AN NPC</sub>
+  <sub>OMG <a href="https://github.com/lovelydrug">han</a>⠀ARE YOU SEEING THIS.⠀</sub> <sub><a href="https://github.com/cozywarmth">kev</a> ⠀IS CALLING YOU AN NPC</sub>
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/fc999dd0fa6e2cecf3f909223c218a4858e35a37/IMG_20261017_142236.jpg">
 
 <div align="center">
