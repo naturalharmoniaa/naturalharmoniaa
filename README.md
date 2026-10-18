@@ -3,6 +3,7 @@
   
 <p align="center">
   <sub>STOP IT </sub> <sub><a href="https://github.com/cozywarmth">kev</a></sub>
+  <p align="center">
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/98df2b7ff5126896d487f6c5b88f8ba95c60d11d/IMG_20261019_054048.jpg">
 
 <p align="center">
