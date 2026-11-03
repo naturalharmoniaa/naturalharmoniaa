@@ -111,6 +111,7 @@
   <sub><a href="https://github.com/daggerstruckmage">daggerstruck</a></sub>
   <sub><a href="https://github.com/kaotown">kaotown</a></sub>
   <sub><a href="https://github.com/music-town">music town</a></sub>
+    <sub><a href="https://github.com/Ponyhonors">pony honors</a></sub>
   <sub><a href="https://github.com/Ponytowns-rewards">pt awards</a></sub>
   <sub><a href="https://github.com/pt-fashion">pt fashion</a></sub>
   <sub><a href="https://github.com/pt-heavyfictkin">pt heavy fictkin</a></sub>
