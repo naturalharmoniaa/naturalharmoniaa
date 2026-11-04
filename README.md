@@ -112,7 +112,8 @@
   <sub><a href="https://github.com/kaotown">kaotown</a></sub>
   <sub><a href="https://github.com/Knox-Event">knox event</a></sub>
   <sub><a href="https://github.com/music-town">music town</a></sub>
-    <sub><a href="https://github.com/Ponyhonors">pony honors</a></sub>
+  <sub><a href="https://github.com/piddlesjet">piddles jet</a></sub>
+  <sub><a href="https://github.com/Ponyhonors">pony honors</a></sub>
   <sub><a href="https://github.com/Ponytowns-rewards">pt awards</a></sub>
   <sub><a href="https://github.com/pt-everypony">pt everypony</a></sub>
   <sub><a href="https://github.com/pt-fashion">pt fashion</a></sub>
