@@ -120,6 +120,7 @@
   <sub><a href="https://github.com/pt-heavyfictkin">pt heavy fictkin</a></sub>
   <sub><a href="https://github.com/pt-icon">pt icon</a></sub>
   <sub><a href="https://github.com/pt-ship-nominations">pt ship nominations</a></sub>
+  <sub><a href="https://github.com/THE-TEMPIST">the temptist</a></sub>
 
 </td>
 </tr>
