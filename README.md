@@ -96,10 +96,10 @@
 <td width="50%" align="center" valign="top">
       <img src="https://github.com/naturalharmoniaa/N/blob/e734903410f2c9b70a1f39a9d7be675a15a63a55/N_BW2.png">
   <sub>♡ ⠀𝘀pecial mentions͟ ⠀</sub>
-  <sub><sub>𝗰𝗵iiwara⠀𝗻ana⠀𝘆ume⠀𝗺ei</sub></sub>
+  <sub><sub>𝗰𝗵iiwara⠀𝗻ana⠀𝘆ume⠀𝗸ev⠀𝗵aru</sub></sub>
   
   <sub>☁︎⠀𝗼ther friends͟⠀</sub>
-  <sub><sub>𝗺el 𝗺ikyii 𝗶rene 𝗸ev 𝗶zu 𝗵an 𝗵aru 𝗹uc 𝗮oki 𝗸yu 𝘃il 𝗺iko 𝘀exy 𝗹emonii 𝗿ex 𝘃ether 𝘅ene 𝗶nfugue 𝗳lowy 𝗸yle 𝗱r-vanta 𝘀tariyuu</sub></sub>
+  <sub><sub>𝗺el 𝗺ikyii 𝗶rene 𝗺ei 𝗶zu 𝗵an 𝗹uc 𝗮oki 𝗸yu 𝘃il 𝗺iko 𝘀exy 𝗹emonii 𝗿ex 𝘃ether 𝘅ene 𝗶nfugue 𝗳lowy 𝗸yle 𝗱r-vanta 𝘀tariyuu</sub></sub>
   
 
   
