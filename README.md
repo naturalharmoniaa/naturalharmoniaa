@@ -1,8 +1,29 @@
 <p align="center">
-  <sub>TYSM FOR THE ART (trade) </sub> <sub><a href="https://github.com/WanderersWife">haru</a></sub>
+  <sub>NatuHana / TheoremShipping (N x Hanami) art dump</sub>
+  
+<p align="center">
+  <sub>ART credits: </sub> <sub><a href="https://github.com/WanderersWife">haru</a></sub>
   <p align="center">
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/80647ca5ce0dd6e2b4afa60e24eb1ea26d0af036/Untitled49_20261105135521.png">
 
+<p align="center">
+  <sub>ART credits: kyler cloudsky</sub>
+  <p align="center">
+  <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/dd1c55966dafdc21e2aa304ebb493614949d822f/NatuHana.png">
+
+<p align="center">
+  <sub>ART credits: tuberosed</sub>
+  <p align="center">
+  <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/dd1c55966dafdc21e2aa304ebb493614949d822f/Untitled316_20260205203041.png">
+
+<p align="center">
+  <sub>ARTs drawn by me</sub>
+  <p align="center">
+  <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/dd1c55966dafdc21e2aa304ebb493614949d822f/NatuHana_art.png">
+    <p align="center">
+  <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/dd1c55966dafdc21e2aa304ebb493614949d822f/N%20x%20Hanami_20260512000743.png">
+  
+    
 <div align="center">
   <details>
     <summary>۶ৎ</summary>
