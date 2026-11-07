@@ -22,6 +22,8 @@
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/dd1c55966dafdc21e2aa304ebb493614949d822f/NatuHana_art.png">
     <p align="center">
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/dd1c55966dafdc21e2aa304ebb493614949d822f/N%20x%20Hanami_20260512000743.png">
+    <p align="center">
+  <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/58999ad7a401c988e92c0b01d512a141de7186af/p%20(1).png">
   <p align="center">
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/9d1c3932ed11183043d0dc8b61e935e45dba73ce/Untitled66_20261026171319.png">
   
