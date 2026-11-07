@@ -18,6 +18,8 @@
 
 <p align="center">
   <sub>ARTs drawn by me</sub>
+    <p align="center">
+  <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/9ffc75bf187a4e04ed0b02bd46ab73c93887f945/NatuHana.png">
   <p align="center">
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/dd1c55966dafdc21e2aa304ebb493614949d822f/NatuHana_art.png">
     <p align="center">
@@ -26,7 +28,10 @@
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/58999ad7a401c988e92c0b01d512a141de7186af/p%20(1).png">
   <p align="center">
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/9d1c3932ed11183043d0dc8b61e935e45dba73ce/Untitled66_20261026171319.png">
-  
+    <p align="center">
+  <sub>OLD Art</sub>
+    <p align="center">
+  <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/9ffc75bf187a4e04ed0b02bd46ab73c93887f945/Untitled72_20261107113027.png">
     
 <div align="center">
   <details>
