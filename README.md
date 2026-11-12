@@ -73,6 +73,23 @@
   ⁠♡
   </p>
   <p align="center">
-  <sub>I'LL STOP HERE FOR A MOMENT, i have to prepare and go to school. I'll be writing more after I'm done with my projects.</sub>
+  <sub>I'LL STOP HERE FOR A MOMENT, I'll be writing more after I'm done with my school projects.</sub>
   </p>
+
+  <sub><a href="https://github.com/casinotown">casinotown</a></sub>
+  <sub><a href="https://github.com/daggerstruckmage">daggerstruck</a></sub>
+  <sub><a href="https://github.com/kaotown">kaotown</a></sub>
+  <sub><a href="https://github.com/Knox-Event">knox event</a></sub>
+  <sub><a href="https://github.com/music-town">music town</a></sub>
+  <sub><a href="https://github.com/piddlesjet">piddles jet</a></sub>
+  <sub><a href="https://github.com/Ponyhonors">pony honors</a></sub>
+  <sub><a href="https://github.com/pony-town-nominations">pony town nominations</a></sub>
+  <sub><a href="https://github.com/Ponytowns-rewards">pt awards</a></sub>
+  <sub><a href="https://github.com/pt-everypony">pt everypony</a></sub>
+  <sub><a href="https://github.com/pt-fashion">pt fashion</a></sub>
+  <sub><a href="https://github.com/pt-heavyfictkin">pt heavy fictkin</a></sub>
+  <sub><a href="https://github.com/pt-icon">pt icon</a></sub>
+  <sub><a href="https://github.com/pts-r0ttingeyes">pt rotting eyes</a></sub>
+  <sub><a href="https://github.com/pt-ship-nominations">pt ship nominations</a></sub>
+  <sub><a href="https://github.com/THE-TEMPIST">the temptist</a></sub>
     </td>
