@@ -1,6 +1,11 @@
 <table>
 <tr>
 <td width="90%" align="center" valign="top">
+  <p align="center">
+  <a href="https://hits.sh/github.com/haidaware/hits/">
+  <img src="https://hits.sh/github.com/naturalharmoniaa/hits.svg?style=flat-square&label=%E2%82%8A%CB%9A%E2%8A%B9%E2%99%A1&color=B0D89A&labelColor=4C5155"/>
+  </a>
+    
 <p align="center">
 <a href="https://naturalharmoniaa.atabook.org/">
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/9a67adc1aa2afb24eda76a65b185291baf8f72f6/d7064ff923974dfa26b323ab1f5cec2f.jpg">
