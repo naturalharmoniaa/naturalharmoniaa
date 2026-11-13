@@ -11,9 +11,11 @@
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/9a67adc1aa2afb24eda76a65b185291baf8f72f6/d7064ff923974dfa26b323ab1f5cec2f.jpg">
 </a>
   <sub>I've never told about how much i love N, because honestly he helped me a lot even though he's just a fictional character. Don't get me started with how i resonate much with him, especially his past trauma. At first, I thought he was just a chill guy who's willing to guide you throughout your journey because of some fanart of him smiling at the viewer. but GOD, it was beyond that. I started taking interest in him that i started searching more about N. memorizing his full name, learning about his personality, how his story goes. And I've never felt more intense for a character like him, N means so much to me. I can give you so many reasons why i love N.</sub>
-  <p align="center">
-  ⁠♡
-  </p>
+  
+<p align="center">
+<img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/f7d15f0982d53a6f08af0594847cfac7854407c2/moving%20cloves.gif">
+</p>
+
   <p align="center">
   <sub>1. his design</sub>
   </p>
@@ -103,12 +105,18 @@
   <p align="center">
   <sub>i find N hot in every version. his anniversary outfit is gorgeous and magnificent, his sygna suit outfit brings out another style that suits him, his summer outfit is simple but adorable, his arc suit outfit looks like an alternative style for him. i hope he gets another stylish outfits, even as someone who hasn't played the game yet but i can still admire him.</sub>
   </p>
+  
+<p align="center">
+<img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/f7d15f0982d53a6f08af0594847cfac7854407c2/moving%20cloves.gif">
+</p>
+
   <p align="center">
   <sub>N isn't only my favorite character, he's my comfort, my fiction kin, and my fictional other, i see myself in him, but i also see him as my other half. it really soothes me when someone makes an effort to talk about N to me, sometimes even joking about him, or associating me with him makes me appreciate it so much. i get so happy when people starts calling me N or becoming the first thought when he appears. when i detach or isolate, all i think about first is N and it regulates my emotions. whenever i feel alienated from social interaction, i think about his experiences as someone who was also sheltered for years and it reminds me that somewhere out there, I'm not alone. don't get me started on academics, the letter N and the word Natural is so common especially in mathematics and science, along with philosophy and arts. i cannot have one day without my mind thinking about him whenever i encounter anything remotely close to N. when i tell you, i knew him years ago but only from the name but his appearance was a bit blurry for me to remember that i didn't recognize it was the same character that I will admire several years later. a part of me is grieving the loss that i didn't start loving him sooner. another part of me is also glad i get to love him later to avoid any unbearably cringe moments from childhood, and it means if i started loving him earlier might lead to moving on from N as i grow older.</sub>
   </p>
-  <p align="center">
-  ⁠♡
-  </p>
+  
+<p align="center">
+<img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/f7d15f0982d53a6f08af0594847cfac7854407c2/moving%20cloves.gif">
+</p>
 
   <sub><a href="https://github.com/casinotown">casinotown</a></sub>
   <sub><a href="https://github.com/daggerstruckmage">daggerstruck</a></sub>
