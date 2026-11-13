@@ -3,7 +3,7 @@
 <td width="90%" align="center" valign="top">
   <p align="center">
   <a href="https://hits.sh/github.com/haidaware/hits/">
-  <img src="https://hits.sh/github.com/naturalharmoniaa/hits.svg?style=flat-square&label=%E2%82%8A%CB%9A%E2%8A%B9%E2%99%A1&color=B0D89A&labelColor=4C5155"/>
+  <img src="https://hits.sh/github.com/naturalharmoniaa/hits.svg?style=flat-square&label=%E2%82%8A%CB%9A%E2%8A%B9%E2%99%A1&color=B0D89A&labelColor=4C5155">
   </a>
     
 <p align="center">
@@ -18,7 +18,7 @@
   <sub>1. his design</sub>
   </p>
   <p align="center">
-  <sub>while i may be the biggest critique when it comes to observing N's whole design, i still can't find myself taking it to heart. the inconsistencies of his eye color, his pendant, his shoes. it doesn't matter, it's part of what makes me love him as who he is.</sub>
+  <sub>while i may be the biggest critique when it comes to observing N's whole design, i still can't find myself taking it to heart. the inconsistencies of his eye color, his pendant, his shoes. it doesn't matter, it's part of what makes me love him for who he is.</sub>
   </p>
   <p align="center">
   <sub>2. his voice</sub>
@@ -72,13 +72,42 @@
   <sub>10. his expressions</sub>
   </p>
   <p align="center">
-  <sub>the blank, detached gaze, his solemn expression, the calm face, the intense stare, the confident smile. how he expresses his feelings fascinates me, i just wonder if it's easy to make him happy or how long it would take until his composure crumble if something heavily upset or overwhelmed him.</sub>
+  <sub>the blank gaze, his solemn expression, the calm face, the intense stare, the confident smile. how he expresses his feelings fascinates me, i just wonder if it's easy to make him happy or how long it would take until his composure crumble if something heavily upset or overwhelmed him.</sub>
+  </p>
+  <p align="center">
+  <sub>11. his height</sub>
+  </p>
+  <p align="center">
+  <sub>i love how N didn't reach 6'0" ft, but he's averagely tall enough. if he were real, I'll definitely mount on this guy and tell him to walk me home. but honestly, he's tall enough to reach up and down and i would feel safe around him as well.</sub>
+  </p>
+  <p align="center">
+  <sub>12. his bond with Pokémon</sub>
+  </p>
+  <p align="center">
+  <sub>the way he calls the Pokémon as his friends, they're definitely family because he grew up being around them. he can easily communicate with them as if it was natural, N barely lies so i believe he does understand their hearts and emotions.</sub>
+  </p>
+  <p align="center">
+  <sub>13. his motivational speech</sub>
+  </p>
+  <p align="center">
+  <sub>when i first played the game, i only came for N to see him and learn more about him. had fun playing and grind for hours to reach the end, i wasn't expecting him to give me a motivational speech after i defeated both him and Ghetsis. it made me speechless and happy, i couldn't focus entirely.</sub>
+    <p align="center">
+  <sub>14. his appearance 2 years later</sub>
+  </p>
+  <p align="center">
+  <sub>he may have appeared 2 years later on B2W2, but it was worth the shot. his entrance was epic, saving the new protagonist from Kyurem's attack. i prefer his interaction with Nate because they're both my favorite characters in the game.</sub>
+  </p>
+  <p align="center">
+  <sub>15. his Pokémon Masters EX outfits</sub>
+  </p>
+  <p align="center">
+  <sub>i find N hot in every version. his anniversary outfit is gorgeous and magnificent, his sygna suit outfit brings out another style that suits him, his summer outfit is simple but adorable, his arc suit outfit looks like an alternative style for him. i hope he gets another stylish outfits, even as someone who hasn't played the game yet but i can still admire him.</sub>
+  </p>
+  <p align="center">
+  <sub>N isn't only my favorite character, he's my comfort, my fiction kin, and my fictional other, i see myself in him, but i also see him as my other half. it really soothes me when someone makes an effort to talk about N to me, sometimes even joking about him, or associating me with him makes me appreciate it so much. i get so happy when people starts calling me N or becoming the first thought when he appears. when i detach or isolate, all i think about first is N and it regulates my emotions. whenever i feel alienated from social interaction, i think about his experiences as someone who was also sheltered for years and it reminds me that somewhere out there, I'm not alone. don't get me started on academics, the letter N and the word Natural is so common especially in mathematics and science, along with philosophy and arts. i cannot have one day without my mind thinking about him whenever i encounter anything remotely close to N. when i tell you, i knew him years ago but only from the name but his appearance was a bit blurry for me to remember that i didn't recognize it was the same character that I will admire several years later. a part of me is grieving the loss that i didn't start loving him sooner. another part of me is also glad i get to love him later to avoid any unbearably cringe moments from childhood, and it means if i started loving him earlier might lead to moving on from N as i grow older.</sub>
   </p>
   <p align="center">
   ⁠♡
-  </p>
-  <p align="center">
-  <sub>I'LL STOP HERE FOR A MOMENT, I'll be writing more after I'm done with my school projects.</sub>
   </p>
 
   <sub><a href="https://github.com/casinotown">casinotown</a></sub>
