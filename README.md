@@ -1,3 +1,11 @@
+<p align="center">
+<sub><a href="https://github.com/LuminwinterRequiem">Irene</a> PIN OF SHAME !!</sub>
+</p>
+
+<p align="center">
+[I'm not blushing hmph!] Draw N pregnant wearing dress and Hanami holding the belly
+</p>
+
 <table>
 <tr>
 <td width="90%" align="center" valign="top">
