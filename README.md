@@ -18,6 +18,11 @@
 <a href="https://naturalharmoniaa.atabook.org/">
   <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/9a67adc1aa2afb24eda76a65b185291baf8f72f6/d7064ff923974dfa26b323ab1f5cec2f.jpg">
 </a>
+
+<p align="center">
+<img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/2751bbad3bd0db2a521d46677808440df6d039f1/a48143fff99c2e4962b6140330e31ed3.jpg">
+</p>
+
   <sub>I've never told about how much i love N, because honestly he helped me a lot even though he's just a fictional character. Don't get me started with how i resonate much with him, especially his past trauma. At first, I thought he was just a chill guy who's willing to guide you throughout your journey because of some fanart of him smiling at the viewer. but GOD, it was beyond that. I started taking interest in him that i started searching more about N. memorizing his full name, learning about his personality, how his story goes. And I've never felt more intense for a character like him, N means so much to me. I can give you so many reasons why i love N.</sub>
   
 <p align="center">
