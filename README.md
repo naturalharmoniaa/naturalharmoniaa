@@ -22,6 +22,7 @@
   <sub><a href="https://github.com/Ponytowns-rewards">pt awards</a></sub>
   <sub><a href="https://github.com/pt-everypony">pt everypony</a></sub>
   <sub><a href="https://github.com/pt-fashion">pt fashion</a></sub>
+  <sub><a href="https://github.com/pt-hall-of-fans">pt hall of fans</a></sub>
   <sub><a href="https://github.com/pt-heavyfictkin">pt heavy fictkin</a></sub>
   <sub><a href="https://github.com/pt-icon">pt icon</a></sub>
   <sub><a href="https://github.com/pts-r0ttingeyes">pt rotting eyes</a></sub>
