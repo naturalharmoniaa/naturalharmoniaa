@@ -11,6 +11,9 @@
 <img src="https://github.com/naturalharmoniaa/naturalharmoniaa/blob/8da41a81b957ee5aa727859bf9351948683aa51e/f6e084d286c588be21a82d07074cc91c.jpg">
 </p>
 
+<p align="center">
+  <sub>PT'S Natural Harmonia Gropius !!!</sub>
+  
   <sub><a href="https://github.com/casinotown">casinotown</a></sub>
   <sub><a href="https://github.com/daggerstruckmage">daggerstruck</a></sub>
   <sub><a href="https://github.com/kaotown">kaotown</a></sub>
